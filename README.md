@@ -67,12 +67,3 @@ git clone https://github.com/Alejobiandin
 ```
 npm start
 ```
-
-## Licence
-💡 Distributed under the MIT License. See LICENSE.txt for more information.
-
-## Contact 
-<a>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-rojas-c4r4c01/)</a>&nbsp;
-
-## Thank you
-Take Care! 💛
