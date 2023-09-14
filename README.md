@@ -55,7 +55,7 @@ ___
 ## Getting started
 🌱 Clone the repository:
 ```
-git clone https://github.com/Caracolaracol/ReactJsFinal-coderhouse.git
+git clone https://github.com/Alejobiandin
 ```
 
 🌱 Install npm packages:
